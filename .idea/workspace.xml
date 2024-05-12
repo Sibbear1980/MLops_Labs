@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f9d8f6f-d32a-4b36-93c6-ba60d3f337ba" name="Changes" comment="Домашнее задание №3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/get_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/get_dataset.py" afterDir="false" />
-    </list>
+    <list default="true" id="5f9d8f6f-d32a-4b36-93c6-ba60d3f337ba" name="Changes" comment="Домашнее задание №3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Lab4" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -71,7 +68,7 @@
   <component name="RunDashboard">
     <option name="openRunningConfigInTab" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Docker.Lab3/Dockerfile: Compose Deployment">
     <configuration name="Docker Image" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
       <deployment type="docker-image">
         <settings>
@@ -120,9 +117,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Docker.Lab3/Dockerfile: Compose Deployment" />
-      <item itemvalue="Docker.Lab3: Compose Deployment" />
       <item itemvalue="Docker.Docker Image" />
+      <item itemvalue="Docker.Lab3: Compose Deployment" />
+      <item itemvalue="Docker.Lab3/Dockerfile: Compose Deployment" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
