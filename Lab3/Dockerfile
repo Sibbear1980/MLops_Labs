@@ -17,6 +17,6 @@ COPY . /app/
 RUN pip install -r requirements.txt
 EXPOSE 8501
 LABEL authors="Shabanov Dmitry"
-ENTRYPOINT ["python", "create_dataset.py"]
-ENTRYPOINT ["python", "train_model.py"]
+CMD ["python", "create_dataset.py"]
+CMD ["python", "train_model.py"]
 CMD ["streamlit", "run", "app.py","--server.port=8501"]
